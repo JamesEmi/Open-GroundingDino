@@ -1,0 +1,18 @@
+{
+  "train": [
+    {
+      "root": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/images/train",
+      "anno": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/odvg_annotations/train.jsonl",
+      "label_map": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/odvg_annotations/label_map.json",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/images/val",
+      "anno": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/odvg_annotations/val.jsonl",
+      "label_map": "/media/airlab-storage/chiron/datasets/cosmos-bodyparts-pipeline/person_detection_2026_04_22/rgb_all/odvg_annotations/label_map.json",
+      "dataset_mode": "odvg"
+    }
+  ]
+}

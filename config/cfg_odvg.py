@@ -116,6 +116,6 @@ ema_epoch = 0
 use_detached_boxes_dec_out = False
 #use_coco_eval = True
 use_coco_eval = False
-label_list = ["blood"]
+label_list = ['person']
 # label_list=['dog', 'cat', 'person']
 dn_scalar = 100
